@@ -43,14 +43,7 @@ A full-stack MERN application designed to improve learning and knowledge managem
 
 ---
 
-## 📸 Screenshots
 
-(image.png)
-(image-1.png)
-(image-2.png)
-(image-3.png)
-
----
 
 ## 📫 Contact
 
